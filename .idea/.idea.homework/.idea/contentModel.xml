@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\25710\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\25710\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_homework.1707508377.00" t="ExcludeRecursive" />
+    <e p="D:\a-Projects\Unity\homework" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="EazyCamera" t="Include">
+          <e p="Code" t="Include">
+            <e p="Animation" t="Include">
+              <e p="EzAnimator.cs" t="Include" />
+            </e>
+            <e p="Camera" t="Include">
+              <e p="Editor" t="Include">
+                <e p="EzCamInspector.cs" t="Include" />
+              </e>
+              <e p="EzCamera.cs" t="Include" />
+              <e p="EzCameraCollider.cs" t="Include" />
+              <e p="EzCameraController.cs" t="Include" />
+              <e p="EzCameraSettings.cs" t="Include" />
+              <e p="EzLockOnTarget.cs" t="Include" />
+            </e>
+            <e p="Controller" t="Include">
+              <e p="EzPlayerController.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="Locomotion" t="Include">
+                <e p="EzMotor.cs" t="Include" />
+              </e>
+            </e>
+            <e p="StateMachine" t="Include">
+              <e p="CameraStates" t="Include">
+                <e p="EzCameraState.cs" t="Include" />
+                <e p="EzFollowState.cs" t="Include" />
+                <e p="EzLockOnState.cs" t="Include" />
+                <e p="EzOrbitState.cs" t="Include" />
+                <e p="EzStationaryState.cs" t="Include" />
+              </e>
+              <e p="EzStateMachine.cs" t="Include" />
+            </e>
+            <e p="Util" t="Include">
+              <e p="ExtensionMethods.cs" t="Include" />
+            </e>
+          </e>
+          <e p="README.txt" t="Include" />
+        </e>
+        <e p="GamePlay" t="Include">
+          <e p="Script" t="Include">
+            <e p="GunManager.cs" t="Include" />
+            <e p="Magmadar.cs" t="Include" />
+            <e p="PlayerCharactor.cs" t="Include" />
+            <e p="PlayerControler.cs" t="Include" />
+            <e p="RaycastShoot.cs" t="Include" />
+            <e p="RayViewer.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="homework.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
